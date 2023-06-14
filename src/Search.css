@@ -1,0 +1,33 @@
+.Form-control {
+  width: 130%;
+  padding: 5px;
+  border-radius: 7px;
+  border: none;
+}
+
+.Button {
+  color: white;
+  background-color: #2e79ba;
+  font-weight: bold;
+  padding: 7px;
+  border-radius: 7px;
+  border: none;
+  font-weight: lighter;
+}
+.Button:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.Row {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.Searchform {
+  text-align: center;
+}
+
+.form {
+  padding: 0px;
+}

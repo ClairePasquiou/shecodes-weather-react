@@ -1,0 +1,25 @@
+.day {
+  color: #2e79ba;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+}
+
+.forecast {
+  margin-top: 10px;
+}
+
+.Forecast-temperature {
+  text-align: center;
+  font-weight: bold;
+}
+
+.Temperature-min {
+  color: #2e79ba;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

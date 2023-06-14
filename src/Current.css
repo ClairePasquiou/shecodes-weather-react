@@ -1,0 +1,25 @@
+.Weather-temperature img {
+  margin-right: 5px;
+  height: 84px;
+  width: 84px;
+}
+
+.Weather-temperature strong {
+  color: #000000;
+  font-size: 64px;
+  line-height: 1;
+  font-weight: 400;
+}
+
+.Weather-temperature .units {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
+}
+
+.Conditions {
+  font-weight: bold;
+}
+.Column-2 {
+  padding: 20px;
+}
